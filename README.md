@@ -1,2 +1,3 @@
 # Muse-Widgets
-Find helpful information about UrMuse widgets for Adobe Muse
+Find helpful information about the Adobe Muse widgets made by UrMuse.
+Discover our widgets at https://www.urmuse.com/muse-widgets/.
